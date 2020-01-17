@@ -1,0 +1,12 @@
+h1 img { width: 55px;
+}
+h1{
+font-size: 60px;
+text-align: center;
+border: solid;
+border-width: thin;
+border-color: grey;
+border-radius: 20px; 
+}
+h1 p{ font-size: 20px; }
+}
